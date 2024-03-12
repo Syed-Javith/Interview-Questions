@@ -37,3 +37,26 @@
 ## Miscellaneous
 3 6 7 13 14 15 20
 29
+
+# Technical Round 1
+
+1. **Data Warehouse**: Defined as a collection of databases.
+2. **Joins**: Types of joins used in SQL.
+3. **Aggregate Functions**: Functions like SUM, AVG, COUNT, etc.
+4. **Normalizations**: Techniques used to organize data in a database.
+5. **Union and Union All**: Combining results of multiple SELECT queries.
+6. **Array Manipulation**: Example of multiplying corresponding elements of two arrays.
+7. **Polymorphism**: Concept in object-oriented programming.
+8. **Multiple Inheritance**: Inheritance of characteristics from multiple parent classes.
+9. **Interface**: Definition and usage in programming.
+10. **Comparison Strategy**: Solving the problem of identifying a heavier ball among 6 balls with minimal comparisons.
+11. **SQL Clauses**: Where, Group By, Having.
+12. **Linked List**: Algorithm to find the middle of a linked list.
+13. **Cake Cutting**: Possible algorithm or problem-solving strategy related to cake cutting.
+
+# Technical Round 2
+
+1. **Merging Unsorted Linked Lists**: Strategy to merge two unsorted linked lists into a sorted fashion.
+2. **Private Method**: Justification for using private methods in programming.
+3. **Parenthesis Matching**: Solution using stack data structure.
+4. **Left Join**: SQL join type.
